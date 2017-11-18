@@ -3,7 +3,7 @@
 	echo '<head>';
 	echo '<meta charset="UTF-8">';
 	echo '<title>Barfly Drink Database</title>';
-	echo '<link rel="stylesheet" href="style.css" />';*/
+	echo '<link rel="stylesheet" href="style.css" />';
 	echo '</head>';
 
 	echo '<nav>';
