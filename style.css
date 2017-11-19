@@ -1,3 +1,11 @@
-html{
-  background-color: fuchsia;
+#newsfeed{
+  border: 2px solid black;
+  display: inline-block;
 }
+ #favorites{
+   border: 2px solid black;
+   display: inline-block;
+ }
+ li{
+   display: inline;
+ }
